@@ -1,0 +1,6 @@
+{"task_id": "eval-101", "category": "plausibility", "score": 4, "status": "completed", "notes": "Mostly plausible motion with minor upper-body stiffness; no foot skating."}
+{"task_id": "eval-102", "category": "plausibility", "score": 3, "status": "completed", "notes": "Noticeable arm rigidity and slight stride inconsistency mid-clip."}
+{"task_id": "eval-103", "category": "condition_compliance", "score": 5, "status": "completed", "notes": "Full compliance with scene and interaction constraints."}
+{"task_id": "eval-104", "category": "plausibility", "score": 2, "status": "completed", "notes": ""}
+{"task_id": "eval-102", "category": "plausibility", "score": 3, "status": "completed", "notes": "Duplicate record for testing duplicate task_id detection."}
+{"task_id": "eval-105", "category": "plausibility", "score": 7, "status": "completed", "notes": "Out-of-range score to test bounds validation."}
